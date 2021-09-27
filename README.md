@@ -21,5 +21,5 @@ This File contain all important topics of advance excel
    *Math & Statistics Function
    *Date & Time Function
 - Macros-Button-and-Flash-Fill
-  *Here, in this file you will see the amazing work of macros button and flash fill    
+  * Here, in this file you will see the amazing work of macros button and flash fill    
  
